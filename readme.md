@@ -22,11 +22,13 @@ Getting Started
 
 ### Installation
 
-1.  Clone the repository: git clone <https://github.com/your-username/file-optimizer.git>
+1.  Clone the repository:
+```
+    git clone https://github.com/kourdroid/file_organizer.git
+```
+4.  Navigate to the project directory: cd file-optimizer
 
-2.  Navigate to the project directory: cd file-optimizer
-
-3.  Install dependencies: pip install -r requirements.txt
+5.  Install dependencies: pip install -r requirements.txt
 
 ### Usage
 
