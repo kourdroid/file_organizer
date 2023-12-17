@@ -1,7 +1,7 @@
 File Optimizer
 ==============
 
-![File Optimizer Logo](https://chat.openai.com/c/logo.png)
+![File Optimizer Logo]([https://chat.openai.com/c/logo.png](https://assets.materialup.com/uploads/0156cdd7-841b-493e-aa15-6ff2692273f7/preview))
 
 File Optimizer is a Python application that organizes and optimizes files effortlessly. It provides a user-friendly interface for sorting files into designated folders and deleting empty folders.
 
