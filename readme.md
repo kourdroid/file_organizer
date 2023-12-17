@@ -24,11 +24,17 @@ Getting Started
 
 1.  Clone the repository:
 ```
-    git clone https://github.com/kourdroid/file_organizer.git
+git clone https://github.com/kourdroid/file_organizer.git
 ```
-4.  Navigate to the project directory: cd file-optimizer
+4.  Navigate to the project directory:
+```
+cd file-optimizer
+```
 
-5.  Install dependencies: pip install -r requirements.txt
+6.  Install dependencies:
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 
@@ -36,15 +42,6 @@ Getting Started
 
 2.  Use the user interface to browse source and destination directories, start optimization, delete empty folders, and more.
 
-Contributing
-------------
-
-Contributions are welcome! Please follow the [contribution guidelines](https://chat.openai.com/c/CONTRIBUTING.md).
-
-License
--------
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/c/LICENSE.md) file for details.
 
 Acknowledgments
 ---------------
@@ -54,4 +51,4 @@ Acknowledgments
 Contact
 -------
 
-For inquiries or support, please contact [Your Name] at [<your.email@example.com>].
+For inquiries or support, please contact [Kourchal] at [<mehdi.kourchal@gmail.com>]
